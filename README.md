@@ -1,3 +1,3 @@
 # OSS
 
-Standardized documents for open-source software projects.
+🦾 Standardized documents for open-source software projects
