@@ -46,3 +46,5 @@ This document was inspired by
 [Open Government](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md),
 [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/),
 and [Svelte](https://github.com/sveltejs/svelte/blob/master/CONTRIBUTING.md).
+
+v1 last updated 2022-10-12
