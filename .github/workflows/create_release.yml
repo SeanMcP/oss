@@ -14,4 +14,3 @@ jobs:
         # artifacts: "release.tar.gz"
         # bodyFile: "CHANGELOG.md"
         prerelease: true
-        # token: ${{ secrets.YOUR_GITHUB_TOKEN }}
